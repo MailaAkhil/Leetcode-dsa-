@@ -9,8 +9,6 @@ class Solution {
         
           }
           int[] arr=new int[2];
-          arr[0]=1;
-          arr[1]=1;
           return arr;
     }
 }
